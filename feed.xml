@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Pheed Me</title>
+    <googleplay:author>Allen Nostromo</googleplay:author>
+    <rawvoice:rating>TV-R</rawvoice:rating>
+    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Allen Nostromo</author>
+    <itunes:author>Allen Nostromo</itunes:author>
+    <itunes:email>kevin@devcostar.com</itunes:email>
+    <itunes:category text="Technorati" />
+    <image>
+      <url>https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp</url>
+      <title>Pheed Me</title>
+      <link>https://vinbarnes/pheed</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Kevin Barnes</itunes:name>
+      <itunes:email>kevin@devcostar.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>web,crypto</itunes:keywords>
+    <copyright>Dev Co-star 2023</copyright>
+    <description>Exploring indefatigably</description>
+    <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sun, 3 Dec 2023 17:00:00 GMT</pubDate>
+    <link>https://vinbarnes/pheed/feed.xml</link>
+    <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>Commercial Real Estate</title>
+      <pubDate>Sun, 3 Dec 2023 17:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Jack_Farley_interview.mp3" type="audio/mpeg" length="52399532" />
+      <itunes:duration>01:49:10</itunes:duration>
+      <guid isPermaLink="false">pheed01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+https://github.com/vinbarnes/pheed
+        </description>
+    </item>
+  </channel>
+</rss>
