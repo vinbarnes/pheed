@@ -26,7 +26,7 @@
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sun, 3 Dec 2023 17:00:00 GMT</pubDate>
-    <link>https://vinbarnes/pheed/feed.xml</link>
+    <link>https://raw.githubusercontent.com/vinbarnes/pheed/main/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <item>
       <author>Allen Nostromo</author>
