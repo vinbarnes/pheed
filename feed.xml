@@ -57,5 +57,21 @@ https://github.com/vinbarnes/pheed
 	https://twitter.com/JohnNosta/status/1733929074655887747
         </description>
     </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>X Spaces interview: Cathie Wood and Elon Musk discuss the future</title>
+      <pubDate>Fri, 22 Dec 2023 07:04:51 GMT</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Cathie_Wood_and_Elon_Musk_Discuss_The_Future-[1rmxPMwPXXQKN].mp3" type="audio/mpeg" length="59440559" />
+      <itunes:duration>1:43:06</itunes:duration>
+      <guid isPermaLink="false">pheed03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+	https://github.com/vinbarnes/pheed
+
+	Cathie Wood and Elon Musk discuss the future
+	https://twitter.com/CathieDWood/status/1737890686425350576
+        </description>
+    </item>
   </channel>
 </rss>
