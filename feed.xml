@@ -73,5 +73,21 @@ https://github.com/vinbarnes/pheed
 	https://twitter.com/CathieDWood/status/1737890686425350576
         </description>
     </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>X Spaces interview: Cathie Wood and Elon Musk discuss the future</title>
+      <pubDate>Tue, 02 Jan 2024 04:03:36 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/" type="audio/mpeg" length="12508377" />
+      <itunes:duration>00:31:37</itunes:duration>
+      <guid isPermaLink="false">pheed04</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+	https://github.com/vinbarnes/pheed
+
+	Robert Nightingale's 1956 "The Strangest Secret"
+	https://twitter.com/BrianRoemmele/status/1741708198762229854
+        </description>
+    </item>
   </channel>
 </rss>
