@@ -89,5 +89,21 @@ https://github.com/vinbarnes/pheed
 	https://twitter.com/BrianRoemmele/status/1741708198762229854
         </description>
     </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>The Coming Age of Abundance with @elonmusk</title>
+      <pubDate>Thu, 04 Jan 2024 06:31:31 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/The_Coming_Age_of_Abundance_with_@elonmusk-[1ypKdkeNvmvxW].mp3" type="audio/mpeg" length="38155055" />
+      <itunes:duration>1:30:03</itunes:duration>
+      <guid isPermaLink="false">pheed05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+https://github.com/vinbarnes/pheed
+
+Spaces hosted by @PeterDiamandis
+https://twitter.com/PeterDiamandis/status/1742716899237204278
+        </description>
+    </item>
   </channel>
 </rss>
