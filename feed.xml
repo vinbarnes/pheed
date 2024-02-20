@@ -25,7 +25,7 @@
     <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Thu, 25 Jan 2024 20:24:20 UTC</pubDate>
+    <pubDate>Tue, 20 Feb 2024 06:28:41 UTC</pubDate>
     <link>https://raw.githubusercontent.com/vinbarnes/pheed/main/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <item>
@@ -135,6 +135,22 @@ https://github.com/vinbarnes/pheed
 
 The Search interview with Elon Musk
 https://twitter.com/benshapiro/status/1750311107430851059
+        </description>
+    </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>A Conversation with Elon Musk</title>
+      <pubDate>Tue, 20 Feb 2024 06:28:41 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/A_Conversation_with_elonmusk.mp3" type="audio/mpeg" length="63537744" />
+      <itunes:duration>3:00:46</itunes:duration>
+      <guid isPermaLink="false">pheed08</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+https://github.com/vinbarnes/pheed
+
+A Conversation with Elon Musk
+https://twitter.com/mysteriouskat/status/1759759677926318082
         </description>
     </item>
   </channel>
