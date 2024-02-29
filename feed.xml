@@ -25,7 +25,7 @@
     <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Tue, 20 Feb 2024 06:28:41 UTC</pubDate>
+    <pubDate>Thu, 29 Feb 2024 16:28:57 UTC</pubDate>
     <link>https://raw.githubusercontent.com/vinbarnes/pheed/main/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <item>
@@ -151,6 +151,22 @@ https://github.com/vinbarnes/pheed
 
 A Conversation with Elon Musk
 https://twitter.com/mysteriouskat/status/1759759677926318082
+        </description>
+    </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>A Conversation with Elon Musk</title>
+      <pubDate>Thu, 29 Feb 2024 16:28:57 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Join_@chigrl_on_China_w_@marykissel_@ChinaBeigeBook_@TonyNashNerd.mp3" type="audio/mpeg" length="26898192" />
+      <itunes:duration>1:13:10</itunes:duration>
+      <guid isPermaLink="false">pheed09</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+https://github.com/vinbarnes/pheed
+
+Join @chigrl on China w/ @marykissel @ChinaBeigeBook &amp; @TonyNashNerd
+https://twitter.com/MicDropMarkets/status/1762869808645685451
         </description>
     </item>
   </channel>
