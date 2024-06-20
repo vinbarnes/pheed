@@ -25,7 +25,7 @@
     <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 10 Jun 2024 23:33:35 UTC</pubDate>
+    <pubDate>Thu, 20 Jun 2024 03:20:09 UTC</pubDate>
     <link>https://raw.githubusercontent.com/vinbarnes/pheed/main/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <item>
@@ -182,6 +182,21 @@ https://twitter.com/MicDropMarkets/status/1762869808645685451
 https://github.com/vinbarnes/pheed
 
 https://x.com/tuckercarlson/status/1799124990643626065
+        </description>
+    </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>Elon Musk @elonmusk's conversation at Cannes Lions</title>
+      <pubDate>Thu, 20 Jun 2024 03:20:09 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Farzad_-_Elon_Musk_Confronts_Interviewer_on_Free_Speech._Here_s_an_edit_of_@elonmusk_s_conversation_at_Cannes_Lions_covering_advertising_on_X_free-[1803461442764472320].mp3" type="audio/mpeg" length="13342153" />
+      <itunes:duration>0:32:09</itunes:duration>
+      <guid isPermaLink="false">pheed11</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+https://github.com/vinbarnes/pheed
+
+https://x.com/farzyness/status/1803462650984275997
         </description>
     </item>
   </channel>
