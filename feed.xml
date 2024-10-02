@@ -20,12 +20,12 @@
       <itunes:email>kevin@devcostar.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>web,crypto</itunes:keywords>
-    <copyright>Dev Co-star 2023</copyright>
+    <copyright>Dev Co-star 2024</copyright>
     <description>Exploring indefatigably</description>
     <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Thu, 20 Jun 2024 03:20:09 UTC</pubDate>
+    <pubDate>Wed, 02 Oct 2024 08:48:59 -0500</pubDate>
     <link>https://raw.githubusercontent.com/vinbarnes/pheed/main/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <item>
@@ -198,6 +198,48 @@ https://github.com/vinbarnes/pheed
 
 https://x.com/farzyness/status/1803462650984275997
         </description>
+    </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>Joseph Walker is in SF on X: "No author has shaped my worldview more than Nassim Taleb (@nntaleb). I stumbled on The Black Swan eight years ago, then inhaled the rest of the Incerto. I've increasingly come to appreciate the importance of its ideas to prolonging the human story. Was an honour to speak with https://t.co/s5wV7Fogcr"</title>
+      <pubDate>Wed, 02 Oct 2024 08:48:58 -0500</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Joseph_Walker_is_in_SF_-_No_author_has_shaped_my_worldview._I_stumbled_on_The_Black_Swan_eight_years_ago_then_inha-%5B1836903416678776832%5D.mp3" type="audio/mpeg" length="41769121" />
+      <itunes:duration>2:02:58.344000</itunes:duration>
+      <guid isPermaLink="false">332124a6-cee4-4a68-852c-b3f8f69ac715</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+No author has shaped my worldview more than Nassim Taleb (
+@nntaleb
+).
+
+I stumbled on The Black Swan eight years ago, then inhaled the rest of the Incerto.
+
+I've increasingly come to appreciate the importance of its ideas to prolonging the human story.
+
+Was an honour to speak with Nassim on the podcast.
+
+Hard to summarise our conversation, but the timestamps below capture the gist.
+
+Enjoy!
+
+Timestamps:
+(0:00:55) - Heuristics for knowing when you're in Mediocristan versus Extremistan.
+(0:06:06) - Are certain tail exponents intrinsic?
+(0:10:30) - Why hasn't Universa's tail hedging strategy now been fully priced in?
+(0:11:52) - Does the power law distribution of startup returns mean VCs should concentrate their bets, or spray and pray?
+(0:15:20) - Nassim's 30-minute take on the field of behavioural economics.
+(0:48:57) - Nassim's 20-minute take on superforecasting.
+(1:11:03) - The Precautionary Principle and AI.
+(1:17:28) - What are LLMs doing?
+(1:23:10) - War, violence, &amp; "the empirical mean is not the real mean".
+(1:39:17) - Covid, &amp; how Western governments think about tail risk.
+(1:43:38) - What's the most important thing people in social science get wrong about correlation?
+(1:52:58) - How does Nassim explain the perspicacity of the Russian school of probability?
+(1:55:56) - Why doesn't Hayek's knowledge argument extend to prediction markets?
+(1:58:26) - If mean absolute deviation is a better measure than standard deviation, why has the latter become commonplace?
+(2:01:09) - Nassim's next book, and what he's up to at the moment.
+      </description>
     </item>
   </channel>
 </rss>
