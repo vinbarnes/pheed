@@ -102,15 +102,19 @@ def update_feed(file_path, metadata, duration)
 end
 
 # Main execution
-if ARGV.length != 1
-  puts "Usage: ruby add_asset.rb <url>"
-  exit 1
+if $PROGRAM_NAME == __FILE__
+
+  if ARGV.length != 1
+    puts "Usage: ruby add_asset.rb <url>"
+    exit 1
+  end
+
+  url = ARGV[0]
+  audio_file = download_audio(url)
+  metadata = get_video_metadata(url)
+  duration = get_audio_duration(audio_file)
+  update_feed(audio_file, metadata, duration)
+
+  puts "Audio downloaded and feed updated successfully"
+  exit 0
 end
-
-url = ARGV[0]
-audio_file = download_audio(url)
-metadata = get_video_metadata(url)
-duration = get_audio_duration(audio_file)
-update_feed(audio_file, metadata, duration)
-
-puts "Audio downloaded and feed updated successfully"
