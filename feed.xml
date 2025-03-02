@@ -20,7 +20,7 @@
       <itunes:email>kevin@devcostar.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>web,crypto</itunes:keywords>
-    <copyright>Dev Co-star 2024</copyright>
+    <copyright>Dev Co-star 2025</copyright>
     <description>Exploring indefatigably</description>
     <googleplay:image href="https://raw.githubusercontent.com/vinbarnes/pheed/main/assets/grandmapo.webp" />
     <language>en-us</language>
@@ -239,6 +239,29 @@ Timestamps:
 (1:55:56) - Why doesn't Hayek's knowledge argument extend to prediction markets?
 (1:58:26) - If mean absolute deviation is a better measure than standard deviation, why has the latter become commonplace?
 (2:01:09) - Nassim's next book, and what he's up to at the moment.
+      </description>
+    </item>
+    <item>
+      <author>Allen Nostromo</author>
+      <itunes:author>Allen Nostromo</itunes:author>
+      <title>Scott Adams: How to Escape the Mental Prisons of “Loserthink” | American Thought Leaders</title>
+      <pubDate>Sun, 02 Mar 2025 18:47:38 UTC</pubDate>
+      <enclosure url="https://github.com/vinbarnes/pheed/raw/main/assets/Scott_Adams_-_How_to_Escape_the_Mental_Prisons_of_Loserthink_Amer.mp3" type="audio/mpeg" length="20763116" />
+      <itunes:duration>0:51:55.848000</itunes:duration>
+      <guid isPermaLink="false">e14f298f-1ce1-4652-ab98-6b427ece3534</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Just how are people today actually trapped in mental prisons they’re not aware of?
+
+Could this be the reason for a lot of today’s political and social discord?
+
+What exactly is “loserthink,” as conceived by author and cartoonist Scott Adams?
+
+And what strategies could be used to help people get out of their ideological bubbles?
+
+This is American Thought Leaders 🇺🇸, and I’m Jan Jekielek.
+
+Today we sit down with Scott Adams, the creator of Dilbert. He’s also a trained hypnotist, student of persuasion, and author of a number of bestselling books including “Win Bigly.” His newest book is titled, “Loserthink: How Untrained Brains Are Ruining America.”
       </description>
     </item>
   </channel>
